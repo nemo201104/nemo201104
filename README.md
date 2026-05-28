@@ -100,7 +100,7 @@ My work focuses on **websites, applications, backend systems, cloud infrastructu
 ## ☁️ Cloud, Hosting & Servers
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cloudflare,aws,gcp,nginx,apache,jenkins&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,aws,gcp,nginx,maven,jenkins&perline=6" />
   <br>
   <img src="https://img.shields.io/badge/DigitalOcean-0167FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
